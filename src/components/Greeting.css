@@ -1,0 +1,7 @@
+.greeting p {
+    text-align: left;
+    border: 1px solid black;
+    height: 1.5rem;
+    margin: 8px;
+    padding: 8px;
+}
